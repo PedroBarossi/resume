@@ -1,4 +1,5 @@
 body {
+    background-image: linear-gradient(rgb(177, 194, 211), rgb(236, 217, 217),rgb(177, 194, 211), rgb(236, 217, 217));
     background-color: rgb(177, 194, 211);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -31,4 +32,8 @@ a:visited {
 
 .current-language {
     font-weight: 600;
+}
+
+.beta{
+    display: none;
 }
